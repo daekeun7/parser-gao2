@@ -106,7 +106,7 @@ with tabs[0]:
   st.divider()
   st.image(img32)
   st.divider()
-  st.text(by gkim)
+  st.write("by gKim")
 
 with tabs[1]:
   # main()
