@@ -1,4 +1,4 @@
-# 사용 방법
+import streamlit as st
 from PIL import Image # 위에서 선언 후 사용해야한다.
 
 
