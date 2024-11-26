@@ -16,7 +16,7 @@ with tabs[0]:
 
 with tabs[1]:
   # main()
-  img = Image.open('images/en/Agriculture and Food.png')
+  img = Image.open('images/en/Budget and Spending.png')
   
   # 경로에 있는 이미지 파일을 통해 변수 저장
   
