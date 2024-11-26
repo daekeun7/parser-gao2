@@ -3,7 +3,7 @@ from PIL import Image # 위에서 선언 후 사용해야한다.
 
 
 # main()
-img = Image.open('data/image.jpg')
+img = Image.open('images/en/Agriculture and Food.png')
 
 # 경로에 있는 이미지 파일을 통해 변수 저장
 
